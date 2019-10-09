@@ -1,0 +1,20 @@
+{
+  "name": "pos-vuejs",
+  "version": "1.0.0",
+  "description": "Tutorial POS System Using VueJS",
+  "main": "index.html",
+  "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "http-server": "^0.11.1",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YH",
+  "license": "ISC"
+}
